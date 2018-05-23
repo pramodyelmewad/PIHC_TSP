@@ -1,5 +1,5 @@
 # PIHC_TSP
-Sequential and GPU-based parallel implementation of Traveling Salesman Problem (TSP) 
+Sequential and GPU-based parallel implementation of Traveling Salesman Problem (TSP). 
 Codes are categorized into two types, sequential and parallel. Sequential is implemented using C language and which is available in "sequential" folder.  Parallel codes are implemented using CUDA and which is available in "parallel" folder. The parallel folder contains three code files namely PIHC, DM, and TDM.  DM and TDM use TPN strategy. Different initial solution construction techniques and thread mapping strategies are available in PIHC code.
 
 For parallel:
