@@ -16,3 +16,5 @@ Execution command: ./pihc ../instances/kroA200.tsp
 
 The optimal solutions of TSPLIB instances are available at the link: http://comopt.ifi.uni-heidelberg.de/software/TSPLIB95/STSP.html
 
+If you find this helpful and writing a research paper, you can encourage us citing this work as
+"Pramod Yelmewadand Basavaraj Talawar, Parallel iterative hill climbing algorithm to solve TSP on GPU, concurrency and computation:  practice and experience, DOI: https://doi.org/10.1002/cpe.4974"
